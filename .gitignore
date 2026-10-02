@@ -1,0 +1,13 @@
+node_modules/
+main.js
+*.log
+.backups/
+*.map
+*.tsbuildinfo
+coverage/
+.env
+.env.*
+data.json
+.vscode/
+.idea/
+.DS_Store

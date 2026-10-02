@@ -1,0 +1,10 @@
+{
+  "id": "hover-expansion",
+  "name": "Hover Expansion",
+  "version": "0.1.1",
+  "minAppVersion": "1.5.0",
+  "description": "Reveal sidebars at window edges, keep them open while dragging files, and select tabs on hover.",
+  "author": "marumimamori",
+  "authorUrl": "https://marumimamori.me",
+  "isDesktopOnly": true
+}
