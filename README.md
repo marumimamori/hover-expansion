@@ -38,6 +38,9 @@ Reveal sidebars and select tabs by hovering, with smooth animations and drag-and
 4. Enter `https://github.com/marumimamori/hover-expansion`.
 5. Let BRAT install the plugin, then enable **Hover Expansion** under **Settings → Community plugins**.
 
+> [!NOTE]
+> This plugin was **vibe-coded with AI assistance**, tested continuously, and adapted to fit its intended workflow.
+
 BRAT can also keep the plugin updated. See the [BRAT documentation](https://github.com/TfTHacker/obsidian42-brat) for its installation and update options.
 
 ### Manual Installation
