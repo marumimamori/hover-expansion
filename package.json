@@ -1,6 +1,6 @@
 {
   "name": "hover-expansion",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Reveal Obsidian sidebars and select tabs on hover.",
   "main": "main.js",
   "scripts": {

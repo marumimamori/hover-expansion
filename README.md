@@ -2,7 +2,7 @@
 
 Reveal sidebars and select tabs by hovering, with smooth animations and drag-and-drop support.
 
-**Current version:** `0.1.1`
+**Current version:** `0.1.2`
 
 ---
 
